@@ -1,0 +1,45 @@
+#frame {
+  width: 400px;
+  height: 600px;
+  margin-left: 350px;
+  margin-top: 20px;
+  background-color: rgb(203, 206, 206);
+  border: 4px 4px 4px 4px;
+  border-color: red;
+}
+
+#container {
+  width: 500px;
+  margin-top: 30px;
+  bottom: 30px;
+  margin-left: 300px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+label {
+  font-weight: 200;
+  color: black;
+}
+
+select {
+  height: 30px;
+  width: 90%;
+}
+
+#states {
+  display: none;
+  min-width: 50px;
+}
+#submit {
+  margin-top: 10px;
+  width: 60px;
+  height: 30px;
+  background-color: teal;
+  color: white;
+}
+input {
+  height: 25px;
+  width: 90%;
+}
